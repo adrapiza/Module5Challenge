@@ -1,0 +1,7 @@
+﻿Alexa Drapiza 
+
+
+Module 5 Report 
+
+
+        For this assignment, there were three observations/inferences recognized in this study. The first observation is the highest two Drug Regimens with the significant number of observed mouse timepoints were Capomulin and Ramicane. The top two were very close based on the bar graphs created. The second observation recognized in this study was the distribution of female versus male mice used. Yet again, very close in percentage, there was a higher male percentage than the female mice. The male mice at 50% whereas the female mice in the study were 49%. This is fairly a good number as we would want to have an equal opportunity to see how sex can be a factor in this study. Lastly, based on the box plot comparing four Drug Regimens (Capomulin, Ramicane, Infubinol and Ceftamin) the plot shows us that Capomuline and Ramicane were had smaller tumor volume (averages lower than 40 mm3),  versus Infubinol and Ceftamine were there volume averaged at 60 mm3. There was only one outlier in the Infubinol which was 36 mm3.
